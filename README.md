@@ -118,9 +118,11 @@ La GUI permite exportar los datos a un archivo PDF con las columnas title, descr
 
 ## Ejemplo de Uso de la GUI
 
-## Realizar Scraping: Haz clic en el botón "Realizar Scraping" para obtener los datos del sitio web y guardarlos en MongoDB y CSV.
-## Realizar Análisis: Haz clic en el botón "Realizar Análisis" para limpiar y analizar los datos, guardando los resultados en un archivo CSV.
-## Ver Datos: Haz clic en el botón "Ver Datos" para mostrar los datos de MongoDB en una tabla. Desde esta ventana, puedes exportar los datos a PDF.
+- Realizar Scraping: Haz clic en el botón "Realizar Scraping" para obtener los datos del sitio web y guardarlos en MongoDB y CSV.
+
+- Realizar Análisis: Haz clic en el botón "Realizar Análisis" para limpiar y analizar los datos, guardando los resultados en un archivo CSV.
+
+- Ver Datos: Haz clic en el botón "Ver Datos" para mostrar los datos de MongoDB en una tabla. Desde esta ventana, puedes exportar los datos a PDF.
 
 ### Nathaly Uvidia 
 ### Tipti 2023 - 2024
