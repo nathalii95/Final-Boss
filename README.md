@@ -28,7 +28,7 @@ pip install -r .\dep.txt
 ````
 
 ## Estructura de las carpetas
-
+````bash
 Final-Boss/
 │
 ├── data/
@@ -61,7 +61,7 @@ Final-Boss/
 │
 ├── dep.txt
 ├── README.md
-
+````
 
 
 
